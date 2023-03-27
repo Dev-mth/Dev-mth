@@ -11,8 +11,8 @@
 
 
 <div align="center">  
-<a href="https://www.instagram.com/theus_cavalcant/?next=%2F" target="_blank" <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="50" width="50"</a>
-  <a href="https://www.instagram.com/theus_cavalcant/?next=%2F" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="50" width="50"</a>
+<a href="https://www.instagram.com/theus_cavalcant/?next=%2F" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="50" width="50"</a>
+  <a href="https://www.instagram.com/theus_cavalcant/?next=%2F" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="50" width="50"</a>
   
 </div>
   
