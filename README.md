@@ -11,7 +11,7 @@
 
 
 <div align="center">  
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="50" width="50"</a>
+<a href="https://www.instagram.com/theus_cavalcant/?next=%2F"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" height="50" width="50"</a>
   <a href="https://www.instagram.com/theus_cavalcant/?next=%2F" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="50" width="50"</a>
   
 </div>
@@ -42,9 +42,10 @@
 
 
 ### Ferramentas:
+ <div style="display: inline_block"><br>
   <img align="center" alt="Github" height="50" width="50" src="https://img.icons8.com/nolan/512/github.png" />
   <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+<div>
 
 ### Banco de dados:
   <div style="display: inline_block"><br>
