@@ -60,7 +60,7 @@
   
 ### Estudando neste momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS] <img align="center" alt="SQLite" height="50" width="50" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" />
+<img align="center" alt="SQLite" height="50" width="50" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" />
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
