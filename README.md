@@ -23,7 +23,7 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="bootstrap" height="" width="60" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png">
+  
 
 
  
@@ -59,8 +59,8 @@
 
   
 ### Estudando neste momento:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-<img align="center" alt="SQLite" height="50" width="50" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" />
+<img align="center" alt="vue" height="" width="60" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png">
+<img align="center" alt="css" height="50" width="50" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" />
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
