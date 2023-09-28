@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2bf0d5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Cavalcante;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Matheus+Cavalcante;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-mth&show_icons=true&count_private=true&hide_border=true&title_color=2bf0d5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Cavalcante github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-mth&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-mth&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=00CED1&bg_color=0d1117" alt="Matheus Cavalcante github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-mth&layout=compact&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dev-mth&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-mth&bg_color=000000&color=00ffff&line=00ffff&point=ff00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -17,55 +17,54 @@
 </div>
   
 
-### Front-end:
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  
-
-
- 
- 
-  
-  
-</div>  
-
-### Back-end:
- <div style="display: inline_block"><br>
-   <img align="center" alt="PHP" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
-   <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
-    
- </div> 
+### Main skills:
+<div style="display: inline_block">
+    <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="PHP" height="30" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
+    <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
+    <img align="center" alt="bootstrap" height="" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
   
+</div>
 
-
-### Ferramentas:
- <div style="display: inline_block"><br>
+<br>
+  
+### Tools:
+ <div style="display: inline_block"><
   <img align="center" alt="Github" height="50" width="50" src="https://img.icons8.com/nolan/512/github.png" />
   <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
 <div>
 
-### Banco de dados:
-  <div style="display: inline_block"><br>
+<br>
+
+### Database:
+  <div style="display: inline_block">
     <img align="center" alt="mysql" height="50" width="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
     <img align="center" alt="PostgreSQ" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
     <img align="center" alt="SQLite" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
     
-  </div>   
+  </div>
+
+  <br>
     
 
-  
 ### Estudando neste momento:
 <img align="center" alt="vue" height="" width="60" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png">
 <img align="center" alt="css" height="50" width="50" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" />
+<img align="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+          
+          
+
+
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dev-mth}/count.svg" /></p> 
 <br></div>
   
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2bf0d5&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
